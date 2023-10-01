@@ -6,7 +6,9 @@ body {
 }
 
 h1,
-ul {
+h2,
+h3,
+h4 ul {
   margin: 0px;
 }
 ul {
@@ -23,4 +25,8 @@ a {
 img {
   max-width: 100%;
   display: block;
+}
+
+img[src$=".jpg"] {
+  border-radius: 4px;
 }
