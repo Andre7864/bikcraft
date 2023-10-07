@@ -1,5 +1,7 @@
+/*Globlal*/
 @import "./global/global.css";
 @import "./global/header.css";
+@import "./global/footer.css";
 /*ultlidades*/
 @import "./ultilidades/componentes.css";
 @import "./ultilidades/tipografia.css";
@@ -10,4 +12,12 @@
 @import "./home/parceiros.css";
 @import "./home/depoimento.css";
 /*bicicleta*/
+@import "./bicicleta/bicicletas.css";
 @import "./bicicleta/bicicleta-lista.css";
+@import "./bicicleta/bicicleta.css";
+/*seguros*/
+@import "./seguros/seguros.css";
+@import "./seguros/vantagens.css";
+@import "./seguros/perguntas.css";
+/*termos*/
+@import "./termos/termos.css";
